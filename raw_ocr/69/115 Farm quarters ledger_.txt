@@ -1,0 +1,192 @@
+# New Heights PM
+
+## Lease: King - King - Simmons
+
+Contact: Aaliyah King Contact: Darius Simmons Contact: Kha'Dejah King
+
+Property Address: 115 Farm Quarters Dr Goose Creek,SC 29445-3755
+
+|  Balance as of 03/31/2023 |  |  | Prepayments | Total Unpaid |  |  | Deposit Held |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  \$6,612.11 |  |  | \$0.00 | \$6,612.11 |  |  | \$0.00 |   |
+|  Transaction | Date | Ref # | Description | Payer Name | Deposit Date | Charges | Payments | Balance  |
+|  Unpaid Charge | 02/06/2023 |  | 5018 - Move-out Repair : TUVF21EB |  |  | \$1,780.00 |  | \$6,612.11  |
+|  Unpaid Charge | 02/03/2023 |  | 4010 - Maintenance Coordinatio... |  |  | \$200.00 |  | \$4,832.11  |
+|  Unpaid Charge | 01/18/2023 |  | 5018 - Move-out Repair : 240369 |  |  | \$150.00 |  | \$4,632.11  |
+|  Unpaid Charge | 01/04/2023 |  | 5018 - Move-out Repair : TRG3ACEB |  |  | \$150.00 |  | \$4,482.11  |
+|  Unpaid Charge | 12/16/2022 |  | 4345 - Late Fee:Late Fee (Manu... |  |  | \$100.00 |  | \$4,332.11  |
+|  Unpaid Charge | 12/06/2022 |  | 4340 - Late Fee : Calculated on 12/06/2022 5:04 AM by system |  |  | \$170.08 |  | \$4,232.11  |
+|  Unpaid Charge | 12/01/2022 |  | 4000 - Rent : 12/9-12/15 |  |  | \$643.55 |  | \$4,062.03  |
+|  Unpaid Charge | 12/01/2022 |  | 4017 - Filter Program |  |  | \$2.58 |  | \$3,418.48  |
+|  Unpaid Charge | 12/01/2022 |  | 4000 - Rent |  |  | \$490.32 |  | \$3,415.90  |
+|  Unpaid Charge | 12/01/2022 |  | 4037 - SDRP Monthly Premium |  |  | \$35.00 |  | \$2,925.58  |
+|  Unpaid Charge | 11/23/2022 |  | 4001 - Eviction Fee : 10/22 |  |  | \$210.00 |  | \$2,890.58  |
+|  Unpaid Charge | 11/21/2022 |  | 4345 - Late Fee:Late Fee (Manu... |  |  | \$100.00 |  | \$2,680.58  |
+|  Unpaid Charge | 11/15/2022 |  | 4340 - Late Fee : Calculated on 11/15/2022 5:03 AM by system |  |  | \$285.00 |  | \$2,580.58  |
+|  Unpaid Charge | 11/01/2022 |  | 4037 - SDRP Monthly Premium |  |  | \$35.00 |  | \$2,295.58  |
+|  Unpaid Charge | 11/01/2022 |  | 4017 - Filter Program |  |  | \$10.00 |  | \$2,260.58  |
+|  Unpaid Charge | 11/01/2022 |  | 4000 - Rent |  |  | \$1,900.00 |  | \$2,250.58  |
+
+|  Transaction | Date | Ref # | Description | Payer Name | Deposit Date | Charges | Payments | Balance  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Deposited Payment | 10/14/2022 | 437173686 | Payment of $\$ 112.11$ applied to [10/03/22, acct 5060, \$167.00] and $\$ 285.00$ applied to [10/06/22, acct 4340, \$285.00]/Rent | Aaliyah
+Jamillah King | 10/19/2022 |  | $\$ 397.11$ | $\$ 350.58$  |
+|  Deposited Payment | 10/14/2022 | 437173684 | Payment of $\$ 35.00$ applied to [10/01/22, acct 4037, \$35.00] and $\$ 54.89$ applied to [10/03/22, acct 5060, \$167.00] and $\$ 400.11$ applied to [10/01/22, acct 4000, \$1,900.00] and $\$ 10.00$ applied to [10/01/22, acct 4017, \$10.00]/Rent | Aaliyah
+Jamillah King | 10/19/2022 |  | $\$ 500.00$ | $\$ 747.69$  |
+|  Deposited Payment | 10/14/2022 | 437173682 | Payment of $\$ 500.00$ applied to [10/01/22, acct 4000, \$1,900.00]/Rent | Aaliyah
+Jamillah King | 10/19/2022 |  | $\$ 500.00$ | $\$ 1,247.69$  |
+|  Deposited Payment | 10/14/2022 | 437173683 | Payment of $\$ 500.00$ applied to [10/01/22, acct 4000, \$1,900.00]/Rent | Aaliyah
+Jamillah King | 10/19/2022 |  | $\$ 500.00$ | $\$ 1,747.69$  |
+|  Deposited Payment | 10/14/2022 | 437173685 | Payment of $\$ 0.11$ applied to [09/16/22, acct 4345, \$100.00] and $\$ 499.89$ applied to [10/01/22, acct 4000, \$1,900.00]/Rent | Aaliyah
+Jamillah King | 10/19/2022 |  | $\$ 500.00$ | $\$ 2,247.69$  |
+|  Unpaid Charge | 10/13/2022 |  | 4001 - Eviction Fee : Expense recovery for bill #82283 |  |  | $\$ 300.00$ |  | $\$ 2,747.69$  |
+|  Unpaid Charge | 10/13/2022 |  | 4001 - Eviction Fee : 10/13/22-13 |  |  | $\$ 50.58$ |  | $\$ 2,447.69$  |
+|  Paid Charge | 10/06/2022 |  | 4340 - Late Fee : Calculated on 10/06/2022 5:02 AM by system |  |  | $\$ 285.00$ |  | $\$ 2,397.11$  |
+|  Paid Charge | 10/03/2022 |  | 5060 - Legal and Professional : 60758-10 |  |  | $\$ 167.00$ |  | $\$ 2,112.11$  |
+|  Paid Charge | 10/01/2022 |  | 4037 - SDRP Monthly Premium |  |  | $\$ 35.00$ |  | $\$ 1,945.11$  |
+|  Paid Charge | 10/01/2022 |  | 4017 - Filter Program |  |  | $\$ 10.00$ |  | $\$ 1,910.11$  |
+|  Paid Charge | 10/01/2022 |  | 4000 - Rent |  |  | $\$ 1,900.00$ |  | $\$ 1,900.11$  |
+|  Deposited Payment | 09/21/2022 | 19-423697844 | Payment of $\$ 99.89$ applied to [09/16/22, acct 4345, \$100.00] and $\$ 230.00$ applied to [09/07/22, acct 4340, \$285.00]/Sep Rent | Aaliyah
+Jamillah King | 09/23/2022 |  | $\$ 329.89$ | $\$ 0.11$  |
+|  Deposited Payment | 09/21/2022 | 19-423697843 | Payment of $\$ 55.00$ applied to [09/07/22, acct 4340, \$285.00] and $\$ 10.00$ applied to [09/01/22, acct 4017, \$10.00] and $\$ 35.00$ applied to [09/01/22, acct 4037, \$35.00] and $\$ 400.00$ applied to [09/01/22, acct 4000, \$1,900.00]/Sep Rent | Aaliyah
+Jamillah King | 09/23/2022 |  | $\$ 500.00$ | $\$ 330.00$  |
+|  Deposited Payment | 09/21/2022 | 19-423697842 | Payment of $\$ 500.00$ applied to [09/01/22, acct 4000, \$1,900.00]/Sep Rent | Aaliyah
+Jamillah King | 09/23/2022 |  | $\$ 500.00$ | $\$ 830.00$  |
+|  Deposited Payment | 09/21/2022 | 19-423697841 | Payment of $\$ 500.00$ applied to [09/01/22, acct 4000, \$1,900.00]/Sep Rent | Aaliyah
+Jamillah King | 09/23/2022 |  | $\$ 500.00$ | $\$ 1,330.00$  |
+|  Deposited Payment | 09/21/2022 | 19-423697840 | Payment of $\$ 500.00$ applied to [09/01/22, acct 4000, \$1,900.00]/Sep Rent | Aaliyah
+Jamillah King | 09/23/2022 |  | $\$ 500.00$ | $\$ 1,830.00$  |
+|  Paid Charge | 09/16/2022 |  | 4345 - Late Fee:Late Fee (Manu... |  |  | $\$ 100.00$ |  | $\$ 2,330.00$  |
+
+|  Transaction | Date | Ref # | Description | Payer Name | Deposit Date | Charges | Payments | Balance  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Paid Charge | 09/07/2022 |  | 4340 - Late Fee : Calculated on 09/07/2022 5:01 AM by system |  |  | \$285.00 |  | \$2,230.00  |
+|  Deposited Payment | 09/06/2022 | 19-423697100 | Payment of \$229.89 applied to [08/06/22, acct 4340, \$284.99] and \$100.00 applied to [08/16/22, acct 4345, \$100.00]/Late Fee | Aaliyah
+Jamillah King | 09/12/2022 |  | \$329.89 | \$1,945.00  |
+|  Deposited Payment | 09/06/2022 | 19-423697099 | Payment of \$55.10 applied to [08/06/22, acct 4340, \$284.99] and \$10.00 applied to [08/01/22, acct 4017, \$10.00] and \$399.90 applied to [08/01/22, acct 4000, \$1,900.00] and \$30.00 applied to [08/01/22, acct 4037, \$30.00] and \$5.00 applied to [08/01/22, acct 4036, \$5.00]/Aug Rent | Aaliyah
+Jamillah King | 09/12/2022 |  | \$500.00 | \$2,274.89  |
+|  Deposited Payment | 09/06/2022 | 19-423697098 | Payment of \$500.00 applied to [08/01/22, acct 4000, \$1,900.00]/Sep Rent | Aaliyah
+Jamillah King | 09/12/2022 |  | \$500.00 | \$2,774.89  |
+|  Deposited Payment | 09/06/2022 | 19-423697097 | Payment of \$500.00 applied to [08/01/22, acct 4000, \$1,900.00]/Sep Rent | Aaliyah
+Jamillah King | 09/12/2022 |  | \$500.00 | \$3,274.89  |
+|  Deposited Payment | 09/06/2022 | 19-423697096 | Payment of \$500.00 applied to [08/01/22, acct 4000, \$1,900.00]/Aug Rent | Aaliyah
+Jamillah King | 09/12/2022 |  | \$500.00 | \$3,774.89  |
+|  Paid Charge | 09/01/2022 |  | 4037 - SDRP Monthly Premium |  |  | \$35.00 |  | \$4,274.89  |
+|  Paid Charge | 09/01/2022 |  | 4017 - Filter Program |  |  | \$10.00 |  | \$4,239.89  |
+|  Paid Charge | 09/01/2022 |  | 4000 - Rent |  |  | \$1,900.00 |  | \$4,229.89  |
+|  Paid Charge | 08/16/2022 |  | 4345 - Late Fee:Late Fee (Manu... |  |  | \$100.00 |  | \$2,329.89  |
+|  Paid Charge | 08/06/2022 |  | 4340 - Late Fee : Calculated on 08/06/2022 5:02 AM by system |  |  | \$284.99 |  | \$2,229.89  |
+|  Paid Charge | 08/01/2022 |  | 4037 - SDRP Monthly Premium |  |  | \$30.00 |  | \$1,944.90  |
+|  Paid Charge | 08/01/2022 |  | 4036 - Administrative Fee |  |  | \$5.00 |  | \$1,914.90  |
+|  Paid Charge | 08/01/2022 |  | 4017 - Filter Program |  |  | \$10.00 |  | \$1,909.90  |
+|  Paid Charge | 08/01/2022 |  | 4000 - Rent |  |  | \$1,900.00 |  | \$1,899.90  |
+|  Deposited Payment | 07/15/2022 | 19-412333650 | Payment of \$0.10 applied to [08/01/22, acct 4000, \$1,900.00] and \$213.21 applied to [07/06/22, acct 4340, \$282.81]/Late Fee | Aaliyah
+Jamillah King | 07/19/2022 |  | \$213.31 | (\$0.10)  |
+|  Deposited Payment | 07/15/2022 | 19-412333649 | Payment of \$10.00 applied to [07/01/22, acct 4017, \$10.00] and \$69.60 applied to [07/06/22, acct 4340, \$282.81] and \$385.40 applied to [07/01/22, acct 4000, \$1,900.00] and \$30.00 applied to [07/01/22, acct 4037, \$30.00] and \$5.00 applied to [07/01/22, acct 4036, \$5.00]/Jul Rent | Aaliyah
+Jamillah King | 07/19/2022 |  | \$500.00 | \$213.21  |
+|  Deposited Payment | 07/15/2022 | 19-412333648 | Payment of \$500.00 applied to [07/01/22, acct 4000, \$1,900.00]/Jul Rent | Aaliyah
+Jamillah King | 07/19/2022 |  | \$500.00 | \$713.21  |
+
+|  Transaction | Date | Ref # | Description | Payer Name | Deposit Date | Charges | Payments | Balance  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Deposited Payment | 07/15/2022 | 19-412333647 | Payment of $\$ 500.00$ applied to [07/01/22, acct 4000, \$1,900.00]/Jul Rent | Aaliyah
+Jamilah King | 07/19/2022 |  | $\$ 500.00$ | $\$ 1,213.21$  |
+|  Deposited Payment | 07/15/2022 | 19-412333646 | Payment of $\$ 500.00$ applied to [07/01/22, acct 4000, \$1,900.00]/Jul Rent | Aaliyah
+Jamilah King | 07/19/2022 |  | $\$ 500.00$ | $\$ 1,713.21$  |
+|  Paid Charge | 07/06/2022 |  | 4340 - Late Fee : Calculated on 07/06/2022 5:03 AM by system |  |  | $\$ 282.81$ |  | $\$ 2,213.21$  |
+|  Paid Charge | 07/01/2022 |  | 4037 - SDRP Monthly Premium |  |  | $\$ 30.00$ |  | $\$ 1,930.40$  |
+|  Paid Charge | 07/01/2022 |  | 4036 - Administrative Fee |  |  | $\$ 5.00$ |  | $\$ 1,900.40$  |
+|  Paid Charge | 07/01/2022 |  | 4017 - Filter Program |  |  | $\$ 10.00$ |  | $\$ 1,895.40$  |
+|  Paid Charge | 07/01/2022 |  | 4000 - Rent |  |  | $\$ 1,900.00$ |  | $\$ 1,885.40$  |
+|  Deposited Payment | 06/14/2022 | 20826499522 | Payment of $\$ 14.60$ applied to [07/01/22, acct 4000, \$1,900.00] and $\$ 21.00$ applied to [06/01/22, acct 4037, \$30.00] and $\$ 284.40$ applied to [06/06/22, acct 4340, \$284.40]/June 2022 Late fee and SDRP | Aaliyah
+Jamilah King | 06/14/2022 |  | $\$ 320.00$ | $(\$ 14.60)$  |
+|  Deposited Payment | 06/14/2022 | 20826499521 | Payment of $\$ 976.00$ applied to [06/01/22, acct 4000, \$1,900.00] and $\$ 10.00$ applied to [06/01/22, acct 4017, \$10.00] and $\$ 9.00$ applied to [06/01/22, acct 4037, \$30.00] and $\$ 5.00$ applied to [06/01/22, acct 4036, \$5.00]/June 2022 rent | Aaliyah
+Jamilah King | 06/14/2022 |  | $\$ 1,000.00$ | $\$ 305.40$  |
+|  Deposited Payment | 06/14/2022 | 392195707 | Payment of $\$ 500.00$ applied to [06/01/22, acct 4000, \$1,900.00]/June 2022 rent | Aaliyah
+Jamilah King | 06/14/2022 |  | $\$ 500.00$ | $\$ 1,305.40$  |
+|  Deposited Payment | 06/14/2022 | 392195708 | Payment of $\$ 420.00$ applied to [06/01/22, acct 4000, \$1,900.00]/June 2022 rent | Aaliyah
+Jamilah King | 06/14/2022 |  | $\$ 420.00$ | $\$ 1,805.40$  |
+|  Paid Charge | 06/06/2022 |  | 4340 - Late Fee : Calculated on 06/06/2022 5:02 AM by system |  |  | $\$ 284.40$ |  | $\$ 2,225.40$  |
+|  Paid Charge | 06/01/2022 |  | 4037 - SDRP Monthly Premium |  |  | $\$ 30.00$ |  | $\$ 1,941.00$  |
+|  Paid Charge | 06/01/2022 |  | 4036 - Administrative Fee |  |  | $\$ 5.00$ |  | $\$ 1,911.00$  |
+|  Paid Charge | 06/01/2022 |  | 4017 - Filter Program |  |  | $\$ 10.00$ |  | $\$ 1,906.00$  |
+|  Paid Charge | 06/01/2022 |  | 4000 - Rent |  |  | $\$ 1,900.00$ |  | $\$ 1,896.00$  |
+|  Deposited Payment | 05/16/2022 | 19-392195181 | Payment of $\$ 4.00$ applied to [06/01/22, acct 4000, \$1,900.00] and $\$ 30.00$ applied to [05/01/22, acct 4037, \$30.00] and $\$ 5.00$ applied to [05/01/22, acct 4036, \$5.00] and $\$ 400.00$ applied to [05/01/22, acct 4000, \$1,900.00] and $\$ 10.00$ applied to [05/01/22, acct 4017, \$10.00]/May rent | Aaliyah
+Jamilah King | 05/19/2022 |  | $\$ 449.00$ | $(\$ 4.00)$  |
+|  Deposited Payment | 05/16/2022 | 19-392195180 | Payment of $\$ 500.00$ applied to [05/01/22, acct 4000, \$1,900.00]/May rent | Aaliyah
+Jamilah King | 05/19/2022 |  | $\$ 500.00$ | $\$ 445.00$  |
+|  Deposited Payment | 05/16/2022 | 19-392195179 | Payment of $\$ 500.00$ applied to [05/01/22, acct 4000, \$1,900.00]/May rent | Aaliyah
+Jamilah King | 05/19/2022 |  | $\$ 500.00$ | $\$ 945.00$  |
+
+|  Transaction | Date | Ref # | Description | Payer Name | Deposit Date | Charges | Payments | Balance  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Deposited Payment | 05/16/2022 | 19-392195178 | Payment of $\$ 500.00$ applied to [05/01/22, acct 4000, \$1,900.00]/May rent | Aaliyah
+Jamillah King | 05/19/2022 |  | $\$ 500.00$ | $\$ 1,445.00$  |
+|  Paid Charge | 05/01/2022 |  | 4037 - SDRP Monthly Premium |  |  | $\$ 30.00$ |  | $\$ 1,945.00$  |
+|  Paid Charge | 05/01/2022 |  | 4036 - Administrative Fee |  |  | $\$ 5.00$ |  | $\$ 1,915.00$  |
+|  Paid Charge | 05/01/2022 |  | 4017 - Filter Program |  |  | $\$ 10.00$ |  | $\$ 1,910.00$  |
+|  Paid Charge | 05/01/2022 |  | 4000 - Rent |  |  | $\$ 1,900.00$ |  | $\$ 1,900.00$  |
+|  Deposited Payment | 04/05/2022 | 19-379016014 | Payment of $\$ 10.00$ applied to [04/01/22, acct 4017, $\$ 10.00]$ and $\$ 400.00$ applied to [04/01/22, acct 4000, \$1,900.00] and $\$ 30.00$ applied to [04/01/22, acct 4037, \$30.00] and $\$ 5.00$ applied to [04/01/22, acct 4036, \$5.00]/Apr rent | Aaliyah
+Jamillah King | 04/06/2022 |  | $\$ 445.00$ | $\$ 0.00$  |
+|  Deposited Payment | 04/05/2022 | 19-379016013 | Payment of $\$ 500.00$ applied to [04/01/22, acct 4000, \$1,900.00]/Apr rent | Aaliyah
+Jamillah King | 04/06/2022 |  | $\$ 500.00$ | $\$ 445.00$  |
+|  Deposited Payment | 04/05/2022 | 19-379016012 | Payment of $\$ 500.00$ applied to [04/01/22, acct 4000, \$1,900.00]/Apr rent | Aaliyah
+Jamillah King | 04/06/2022 |  | $\$ 500.00$ | $\$ 945.00$  |
+|  Deposited Payment | 04/05/2022 | 19-379016011 | Payment of $\$ 500.00$ applied to [04/01/22, acct 4000, \$1,900.00]/Apr rent | Aaliyah
+Jamillah King | 04/06/2022 |  | $\$ 500.00$ | $\$ 1,445.00$  |
+|  Paid Charge | 04/01/2022 |  | 4037 - SDRP Monthly Premium |  |  | $\$ 30.00$ |  | $\$ 1,945.00$  |
+|  Paid Charge | 04/01/2022 |  | 4036 - Administrative Fee |  |  | $\$ 5.00$ |  | $\$ 1,915.00$  |
+|  Paid Charge | 04/01/2022 |  | 4017 - Filter Program |  |  | $\$ 10.00$ |  | $\$ 1,910.00$  |
+|  Paid Charge | 04/01/2022 |  | 4000 - Rent |  |  | $\$ 1,900.00$ |  | $\$ 1,900.00$  |
+|  Deposited Payment | 03/07/2022 | 21012273013 | Payment of $\$ 400.00$ applied to [03/01/22, acct 4000, \$1,900.00] and $\$ 10.00$ applied to [03/01/22, acct 4017, \$10.00]/Mar rent | Aaliyah
+Jamillah King | 03/08/2022 |  | $\$ 410.00$ | $\$ 0.00$  |
+|  Deposited Payment | 03/07/2022 | 21012273012 | Payment of $\$ 500.00$ applied to [03/01/22, acct 4000, \$1,900.00]/Mar rent | Aaliyah
+Jamillah King | 03/08/2022 |  | $\$ 500.00$ | $\$ 410.00$  |
+|  Deposited Payment | 03/07/2022 | 21012273011 | Payment of $\$ 500.00$ applied to [03/01/22, acct 4000, \$1,900.00]/Mar rent | Aaliyah
+Jamillah King | 03/08/2022 |  | $\$ 500.00$ | $\$ 910.00$  |
+|  Deposited Payment | 03/07/2022 | 21012273010 | Payment of $\$ 500.00$ applied to [03/01/22, acct 4000, \$1,900.00]/Mar rent | Aaliyah
+Jamillah King | 03/08/2022 |  | $\$ 500.00$ | $\$ 1,410.00$  |
+|  Paid Charge | 03/01/2022 |  | 4017 - Filter Program |  |  | $\$ 10.00$ |  | $\$ 1,910.00$  |
+|  Paid Charge | 03/01/2022 |  | 4000 - Rent |  |  | $\$ 1,900.00$ |  | $\$ 1,900.00$  |
+
+|  Transaction | Date | Ref # | Description | Payer Name | Deposit Date | Charges | Payments | Balance  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Settled ePayment | 02/05/2022 | C75K2LFNL10 | Payment of $\$ 30.00$ applied to [02/01/22, acct 4037, $\$ 30.00$ ] and $\$ 5.00$ applied to [02/01/22, acct 4036, $\$ 5.00$ ] and $\$ 10.00$ applied to [02/01/22, acct 4017, $\$ 10.00$ ] and $\$ 1,900.00$ applied to [02/01/22, acct 4000, \$1,900.00]/One Time ePayment received from Aaliyah Jamillah King, Paid from Harry Bernard King account | Aaliyah
+Jamillah King-
+Harry Bernard
+King | 02/05/2022 |  | $\$ 1,945.00$ | $\$ 0.00$  |
+|  Paid Charge | 02/01/2022 |  | 4017 - Filter Program |  |  | $\$ 10.00$ |  | $\$ 1,945.00$  |
+|  Paid Charge | 02/01/2022 |  | 4000 - Rent |  |  | $\$ 1,900.00$ |  | $\$ 1,935.00$  |
+|  Paid Charge | 02/01/2022 |  | 4037 - SDRP Monthly Premium |  |  | $\$ 30.00$ |  | $\$ 35.00$  |
+|  Paid Charge | 02/01/2022 |  | 4036 - Administrative Fee |  |  | $\$ 5.00$ |  | $\$ 5.00$  |
+|  Settled ePayment | 01/01/2022 | 2DL655BNL18 | Payment of $\$ 5.00$ applied to [01/01/22, acct 4036, $\$ 5.00$ ] and $\$ 30.00$ applied to [01/01/22, acct 4037, $\$ 30.00$ ] and $\$ 1,409.68$ applied to [01/01/22, acct 4000, \$1,409.68] and $\$ 1.45$ applied to [01/01/22, acct 4036, \$1.45] and $\$ 7.42$ applied to [01/01/22, acct 4017, \$7.42] and $\$ 8.71$ applied to [01/01/22, acct 4037, \$8.71]/One Time ePayment received from Aaliyah Jamillah King, Paid from Harry Bernard King account | Aaliyah
+Jamillah King-
+Harry Bernard
+King | 01/01/2022 |  | $\$ 1,462.26$ | $\$ 0.00$  |
+|  Paid Charge | 01/01/2022 |  | 4037 - SDRP Monthly Premium |  |  | $\$ 8.71$ |  | $\$ 1,462.26$  |
+|  Paid Charge | 01/01/2022 |  | 4036 - Administrative Fee |  |  | $\$ 1.45$ |  | $\$ 1,453.55$  |
+|  Paid Charge | 01/01/2022 |  | 4017 - Filter Program |  |  | $\$ 7.42$ |  | $\$ 1,452.10$  |
+|  Paid Charge | 01/01/2022 |  | 4000 - Rent |  |  | $\$ 1,409.68$ |  | $\$ 1,444.68$  |
+|  Paid Charge | 01/01/2022 |  | 4037 - SDRP Monthly Premium |  |  | $\$ 30.00$ |  | $\$ 35.00$  |
+|  Paid Charge | 01/01/2022 |  | 4036 - Administrative Fee |  |  | $\$ 5.00$ |  | $\$ 5.00$  |
+|  Paid Charge | 12/09/2021 |  | 4037 - SDRP Monthly Premium |  |  | $\$ 30.00$ |  | $\$ 0.00$  |
+|  Paid Charge | 12/09/2021 |  | 4036 - Administrative Fee |  |  | $\$ 5.00$ |  | $(\$ 30.00)$  |
+|  Paid Charge | 12/09/2021 |  | 4205 - Lease Admin/Insp Fee |  |  | $\$ 250.00$ |  | $(\$ 35.00)$  |
+|  Paid Charge | 12/09/2021 |  | 4017 - Filter Program |  |  | $\$ 10.00$ |  | $(\$ 285.00)$  |
+|  Paid Charge | 12/09/2021 |  | 4000 - Rent |  |  | $\$ 1,900.00$ |  | $(\$ 295.00)$  |
+|  Deposited Payment | 12/08/2021 | 19-333954566 | Payment of $\$ 30.00$ applied to [12/09/21, acct 4037, $\$ 30.00$ ] and $\$ 5.00$ applied to [12/09/21, acct 4036, $\$ 5.00$ ] and $\$ 60.00$ applied to [12/09/21, acct 4205, $\$ 250.00$ ]/First Months Rent | Aaliyah
+Jamillah King | 12/09/2021 |  | $\$ 95.00$ | $(\$ 2,195.00)$  |
+|  Deposited Payment | 12/08/2021 | 19-333954565 | Payment of $\$ 190.00$ applied to [12/09/21, acct 4205, $\$ 250.00$ ] and $\$ 10.00$ applied to [12/09/21, acct 4017, \$10.00] and $\$ 300.00$ applied to [12/09/21, acct 4000, \$1,900.00]/First Months Rent | Aaliyah
+Jamillah King | 12/09/2021 |  | $\$ 500.00$ | $(\$ 2,100.00)$  |
+
+|  Transaction | Date | Ref # | Description | Payer Name | Deposit
+Date | Charges | Payments | Balance  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Deposited Payment | 12/08/2021 | 19-337691232 | Payment of $\$ 600.00$ applied to [12/09/21, acct 4000,
+$\$ 1,900.00] /$ First Months Rent | Aaliyah
+Jamillah King | 12/09/2021 |  | $\$ 600.00$ | $(\$ 1,600.00)$  |
+|  Deposited Payment | 12/08/2021 | 19-337691231 | Payment of $\$ 1,000.00$ applied to [12/09/21, acct
+4000, \$1,900.00] /First Months Rent | Aaliyah
+Jamillah King | 12/09/2021 |  | $\$ 1,000.00$ | $(\$ 1,000.00)$  |
+
+Copyright © Propertyware® 2003-2023. All rights reserved. Various trademarks held by their respective owners.

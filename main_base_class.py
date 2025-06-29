@@ -1,7 +1,7 @@
 from __future__ import annotations
-from typing   import List, Optional, Literal
+from typing   import List, Optional, Literal, Union
 from datetime import date, datetime
-from pydantic import BaseModel, Field, condecimal, constr
+from pydantic import BaseModel, Field, condecimal, constr, RootModel
 
 # ──────────────── PAGE TEXT ─────────────────
 class PageText(BaseModel):
@@ -267,11 +267,14 @@ class AuthForm(BaseDoc):
 
 
 # ──────────────── UNION ────────────────
-DocUnion = (
-    LeaseDoc | LedgerDoc | SDIDoc | InvoiceDoc |
-    CollectionLetter | ApplicationDoc |
-    PhotoReportDoc | EmailDoc | PolicyDoc | OtherDoc |
-    CourtDoc | MaintenanceEstimate | MoveOutInspection | AuthForm
-)
+# Using Pydantic RootModel for proper schema generation that works with Mistral API
+class DocUnion(RootModel[Union[
+    LeaseDoc, LedgerDoc, SDIDoc, InvoiceDoc,
+    CollectionLetter, ApplicationDoc,
+    PhotoReportDoc, EmailDoc, PolicyDoc, OtherDoc,
+    CourtDoc, MaintenanceEstimate, MoveOutInspection, AuthForm
+]]):
+    """Root model for document union that provides proper model_json_schema() method"""
+    pass
 
 

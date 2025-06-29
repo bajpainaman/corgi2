@@ -1,0 +1,90 @@
+# Tenant Ledger
+
+|  Date Range: all time |  |  |  |  |   |
+| --- | --- | --- | --- | --- | --- |
+|  Lease: equals 1411 Frio Eagle - 1411 Frio Eagle, San Antonio, TX 78245 (Savannah Vera, Richard Dauberman, ...) |  |  |  |  |   |
+|  Company:RentWere |  |  |  |  |   |
+|  Unit:1411 Frio Eagle, San Antonio, TX 78245 |  |  |  |  |   |
+|  Lease Status:Closed - Itemization Complete |  |  |  |  |   |
+|  Tenants:Savannah Vera, Richard Dauberman |  |  |  |  |   |
+|  Phones:(210) 753-2151, (210) 607-3128 |  |  |  |  |   |
+|  Move In Date:1-23-2023 |  |  |  |  |   |
+|  Move Out Date:1-31-2024 |  |  |  |  |   |
+|  Lease End Date:1-31-2024 |  |  |  |  |   |
+|  Rent Amount:52,400.00 |  |  |  |  |   |
+|  Deposit Balance: $\$ 0.00$ |  |  |  |  |   |
+
+63 Record(s) as of 4-19-2024 12:49 pm
+
+|  DATE | CONTACT | DESCRIPTION | CHARGES | PAYMENTS | BALANCE  |
+| --- | --- | --- | --- | --- | --- |
+|  03-04-2024 |  | NSF Fee - Returned Payment - NSF Fee | \$85.00 |  | \$1,590.75  |
+|  03-04-2024 |  | Payment Return / NSF (Reference: ) - Tenant chargeback on PTP funds pulled - in violation of lease agreement (Vera \$1505.75) |  | $\$-1,505.75$ | \$1,505.75  |
+|  02-27-2024 | Savannah Vera | Other Payment (Reference: Pull funds per lease agreement PTP (Vera \$1,505.75)) |  | \$1,505.75 | $\$ 0.00$  |
+|  02-27-2024 |  | Itemization Fee - Itemization Fee | \$95.00 |  | \$1,505.75  |
+|  02-27-2024 |  | Make Ready Repairs - Make Ready Repairs | \$1,410.75 |  | \$1,410.75  |
+|  01-31-2024 | Richard Dauberman | Credit Card Payment (Reference: trn_581f122d-70bd-41cc-83a0-d695298d54f4) - Resident Portal Payment |  | $\$ 25.00$ | $\$ 0.00$  |
+|  01-29-2024 |  | Lockbox Move In/Out - Lockbox Move In/Out | \$25.00 |  | \$25.00  |
+|  01-01-2024 |  | Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (01-2024) | \$33.00 |  | $\$ 0.00$  |
+|  01-01-2024 |  | Resident Benefit Package (\$59) - Resident Benefit Package (\$59) (01-2024) | \$41.00 |  | $\$-33.00$  |
+|  01-01-2024 |  | Rent - Rent (01-2024) | \$2,400.00 |  | $\$-74.00$  |
+|  12-27-2023 | Richard Dauberman | eCheck Payment (Reference: trn_6cbcc4a5-52a8-4af1-b761-42cecdb665e4) - Resident Portal Payment |  | \$2,474.00 | $\$-2,474.00$  |
+|  12-01-2023 |  | Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (12-2023) | \$33.00 |  | $\$ 0.00$  |
+|  12-01-2023 |  | Resident Benefit Package (\$59) - Resident Benefit Package (\$59) (12-2023) | \$41.00 |  | $\$-33.00$  |
+|  12-01-2023 |  | Rent - Rent (12-2023) | \$2,400.00 |  | $\$-74.00$  |
+|  11-30-2023 | Richard Dauberman | eCheck Payment (Reference: trn_c40bcd3a-9381-449e-9bd1-cedbe2166101) - Resident Portal Payment |  | \$2,474.00 | $\$-2,474.00$  |
+|  11-01-2023 | Richard Dauberman | eCheck Payment (Reference: trn_c637a344-237d-4336-acf2-a3bf10c5e02a) - Resident Portal Payment |  | \$2,492.00 | $\$ 0.00$  |
+|  11-01-2023 |  | Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (11-2023) | \$33.00 |  | \$2,492.00  |
+|  11-01-2023 |  | Resident Benefit Package (\$59) - Resident Benefit Package (\$59) (11-2023) | \$59.00 |  | \$2,459.00  |
+
+|  DATE | CONTACT | DESCRIPTION | CHARGES | PAYMENTS | BALANCE  |
+| --- | --- | --- | --- | --- | --- |
+|  11-01-2023 |  | Rent - Rent (11-2023) | \$2,400.00 |  | \$2,400.00  |
+|  10-01-2023 |  | Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (10-2023) | \$33.00 |  | $\$ 0.00$  |
+|  10-01-2023 |  | Resident Benefit Package (\$59) - Resident Benefit Package (\$59) (10-2023) | \$59.00 |  | $\$-33.00$  |
+|  10-01-2023 |  | Rent - Rent (10-2023) | \$2,400.00 |  | $\$-92.00$  |
+|  09-30-2023 | Richard Dauberman | eCheck Payment (Reference: trn_0684ae72-67dd-4d6b-bf8d-7c1171db0b9d) - Resident Portal Payment |  | \$2,492.00 | $\$-2,492.00$  |
+|  09-01-2023 |  | Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (09-2023) | \$33.00 |  | $\$ 0.00$  |
+|  09-01-2023 |  | Resident Benefit Package (\$59) - Resident Benefit Package (\$59) (09-2023) | \$59.00 |  | $\$-33.00$  |
+|  09-01-2023 |  | Rent - Rent (09-2023) | \$2,400.00 |  | $\$-92.00$  |
+|  08-31-2023 | Richard Dauberman | eCheck Payment (Reference: trn_8860799e-1b1d-4415-90fc-05b4b5d4ded9) - Resident Portal Payment |  | \$2,492.00 | $\$-2,492.00$  |
+|  08-01-2023 |  | Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (08-2023) | \$33.00 |  | $\$ 0.00$  |
+|  08-01-2023 |  | Resident Benefit Package (\$59) - Resident Benefit Package (\$59) (08-2023) | \$59.00 |  | $\$-33.00$  |
+|  08-01-2023 |  | Rent - Rent (08-2023) | \$2,400.00 |  | $\$-92.00$  |
+|  07-31-2023 | Richard Dauberman | eCheck Payment (Reference: trn_ee02a7a9-7871-47a4-adbb-a6d87c380435) - Resident Portal Payment |  | \$2,492.00 | $\$-2,492.00$  |
+|  07-01-2023 |  | Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (07-2023) | \$33.00 |  | $\$ 0.00$  |
+|  07-01-2023 |  | Resident Benefit Package (\$59) - Resident Benefit Package (\$59) (07-2023) | \$59.00 |  | $\$-33.00$  |
+|  07-01-2023 |  | Rent - Rent (07-2023) | \$2,400.00 |  | $\$-92.00$  |
+|  06-29-2023 | Richard Dauberman | eCheck Payment (Reference: trn_43c2cc58-2103-4e7c-8a27-002508d83e3d) - Resident Portal Payment |  | \$2,492.00 | $\$-2,492.00$  |
+|  06-01-2023 |  | Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (06-2023) | \$33.00 |  | $\$ 0.00$  |
+|  06-01-2023 |  | Resident Benefit Package (\$59) - Resident Benefit Package (\$59) (06-2023) | \$59.00 |  | $\$-33.00$  |
+|  06-01-2023 |  | Rent - Rent (06-2023) | \$2,400.00 |  | $\$-92.00$  |
+|  06-01-2023 | Richard Dauberman | eCheck Payment (Reference: trn_4bef2cae-a63d-4864-861a-51cc6e7f0d20) - Resident Portal Payment |  | \$2,492.00 | $\$-2,492.00$  |
+|  05-01-2023 |  | Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (05-2023) | \$33.00 |  | $\$ 0.00$  |
+|  05-01-2023 |  | Resident Benefit Package (\$59) - Resident Benefit Package (\$59) (05-2023) | \$59.00 |  | $\$-33.00$  |
+|  05-01-2023 |  | Rent - Rent (05-2023) | \$2,400.00 |  | $\$-92.00$  |
+|  04-28-2023 | Richard Dauberman | eCheck Payment (Reference: trn_83ed95d6-975c-42db-80c2-61611dbdb0b3) - Resident Portal Payment |  | \$2,492.00 | $\$-2,492.00$  |
+|  04-01-2023 |  | Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (04-2023) | \$33.00 |  | $\$ 0.00$  |
+
+|  DATE | CONTACT | DESCRIPTION | CHARGES | PAYMENTS | BALANCE  |
+| --- | --- | --- | --- | --- | --- |
+|  04-01-2023 |  | Resident Benefit Package ($59) - Resident Benefit Package ($59) (04-2023) | $59.00 |  | $-33.00  |
+|  04-01-2023 |  | Rent - Rent (04-2023) | $2,400.00 |  | $-92.00  |
+|  03-31-2023 | Richard Dauberman | eCheck Payment (Reference: trn_e1ed1082-3266-4911-b371-992a31706b03) - Resident Portal Payment |  | $2,492.00 | $-2,492.00  |
+|  03-01-2023 |  | Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (03-2023) | $33.00 |  | $0.00  |
+|  03-01-2023 |  | Resident Benefit Package ($59) - Resident Benefit Package ($59) (03-2023) | $59.00 |  | $-33.00  |
+|  03-01-2023 |  | Rent - Rent (03-2023) | $2,400.00 |  | $-92.00  |
+|  02-28-2023 | Richard Dauberman | eCheck Payment (Reference: trn_491a20e2-075d-4b8c-a720-2f40761290bc) - Resident Portal Payment |  | $2,492.00 | $-2,492.00  |
+|  02-01-2023 |  | Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee (02-2023) | $33.00 |  | $0.00  |
+|  02-01-2023 |  | Resident Benefit Package ($59) - Resident Benefit Package ($59) (02-2023) | $59.00 |  | $-33.00  |
+|  02-01-2023 |  | Rent - Rent (02-2023) | $2,400.00 |  | $-92.00  |
+|  02-01-2023 | Richard Dauberman | eCheck Payment (Reference: trn_aaa92d86-b57d-44fa-81d9-2199cc2bbd8a) - Resident Portal Payment |  | $1,324.00 | $-2,492.00  |
+|  01-16-2023 | Richard Dauberman | Money Order Payment (Reference: 19-465536680) |  | $400.00 | $-1,168.00  |
+|  01-16-2023 | Richard Dauberman | Money Order Payment (Reference: 19-465536679) |  | $1,000.00 | $-768.00  |
+|  01-16-2023 | Richard Dauberman | Money Order Payment (Reference: 19-465536678) |  | $1,000.00 | $232.00  |
+|  01-16-2023 |  | Preferred Tenant Monthly Fee - Preferred Tenant Monthly Fee | $33.00 |  | $1,232.00  |
+|  01-16-2023 |  | Move in Orientation - Move in Orientation | $125.00 |  | $1,199.00  |
+|  01-16-2023 |  | Lease Preparation - Lease Preparation | $295.00 |  | $1,074.00  |
+|  01-16-2023 |  | Resident Benefit Package ($59) - Resident Benefit Package ($59) | $59.00 |  | $779.00  |
+|  01-16-2023 |  | Rent - Rent Income | $720.00 |  | $720.00  |
+|  STARTING BALANCE |  |  |  |  | $0.00  |
